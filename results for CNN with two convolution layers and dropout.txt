@@ -1,0 +1,7 @@
+CNN with two convolution layers and dropout
+number of weights = 3274634
+CPU time  :  0:02:01sec
+Accuracy : 0.9921000003814697 ,
+Precision : 0.9919793362106653 ,
+Recall 0.9920382799369503 , 
+F-Score : 0.9919793362106653

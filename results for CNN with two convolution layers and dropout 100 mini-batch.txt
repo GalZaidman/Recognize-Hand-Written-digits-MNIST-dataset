@@ -1,0 +1,7 @@
+CNN with two convolution layers and dropout 100 mini-batch
+number of weights = 3274634
+CPU time  :  0:03:04sec
+Accuracy : 0.9926999807357788 ,
+Precision : 0.9927150036877379 ,
+Recall 0.9925651400151585 , 
+F-Score : 0.9927150036877379

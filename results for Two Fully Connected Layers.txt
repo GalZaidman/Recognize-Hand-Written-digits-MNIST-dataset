@@ -1,0 +1,7 @@
+Two Fully Connected Layers
+number of weights = 199210
+CPU time  :  0:00:47sec
+Accuracy : 0.9638000130653381 ,
+Precision : 0.9635583445606135 ,
+Recall 0.9633860934218011 , 
+F-Score : 0.9635583445606135

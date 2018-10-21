@@ -1,0 +1,7 @@
+CNN with two convolution layers
+number of weights = 3274634
+CPU time  :  0:02:01sec
+Accuracy : 0.9919000267982483 ,
+Precision : 0.9919101151508061 ,
+Recall 0.9917840278558818 , 
+F-Score : 0.9919101151508061

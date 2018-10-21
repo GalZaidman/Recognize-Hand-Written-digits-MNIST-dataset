@@ -1,0 +1,7 @@
+Logistic Regresion
+number of weights = 7850
+CPU time  :  0:01:01sec
+Accuracy : 0.9158999919891357 ,
+Precision : 0.9150531718498145 ,
+Recall 0.9146146022941496 , 
+F-Score : 0.9150531718498145
